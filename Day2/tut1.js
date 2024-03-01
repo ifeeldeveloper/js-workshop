@@ -4,7 +4,7 @@ console.log("Welcome to JagaScript")
 let test = "First Variable";
 test = 2;
 test = true;
-let arr = ["Jagadish", 'Jaggu', "Jiwan", 'Bhoj', 'Bhaskar', 'Don']
+let arr = ["Jagadish", 'Jaggu', "Jiwan", 'Bhoj', 'Bhaskar', 'Don', 'Divya']
 
 
 let name = "Jagadish";
